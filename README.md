@@ -1,0 +1,1 @@
+Sample code using `aws-serverless-express` and `express`.
